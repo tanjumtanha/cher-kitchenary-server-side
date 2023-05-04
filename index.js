@@ -11,7 +11,6 @@ app.get('/', (req,res)=>{
 })
 
 app.get('/data', (req,res)=>{
-    console.log(data)
     res.send(data)
 })
 
