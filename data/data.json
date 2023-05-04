@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "name": "Sara Tanaka",
+        "picture": "https://i.ibb.co/cNQQp8Y/145781815-beautiful-asian-chef-woman-smile-and-make-okay-hand-sign-isolated-on-pink-background-happi.webp",
+        "experience": "12 years",
+        "likes": 1567,
+        "bio": "Sara Tanaka is a Japanese-American chef with over a decade of experience in the culinary industry. She trained in some of the best kitchens in Tokyo and New York City before opening her own restaurant in San Francisco.",
+        "recipes": [
+            {
+                "name": "Miso Soup",
+                "image":"",
+                "ingredients": [
+                    "Tofu",
+                    "Miso paste",
+                    "Dashi broth",
+                    "Green onions",
+                    "Seaweed"
+                ],
+                "cooking_method": "1. Boil dashi broth in a pot. \n2. Add in cubed tofu and sliced green onions. \n3. In a separate bowl, mix miso paste with some dashi broth until smooth. \n4. Add the miso paste mixture into the pot and stir. \n5. Add seaweed to the pot and let it simmer for a few minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Sushi Rolls",
+                "image":"",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed sheets",
+                    "Sashimi-grade fish",
+                    "Avocado",
+                    "Cucumber"
+                ],
+                "cooking_method": "1. Cook sushi rice according to package instructions. \n2. Place a sheet of nori on a sushi mat. \n3. Spread sushi rice evenly over the nori, leaving a small border at the top. \n4. Add sliced fish, avocado, and cucumber on top of the rice. \n5. Roll the sushi tightly using the mat. \n6. Cut the sushi roll into slices.",
+                "rating": 4.8
+            },
+            {
+                "name": "Ramen",
+                "image":"",
+                "ingredients": [
+                    "Pork bones",
+                    "Chicken bones",
+                    "Dried shiitake mushrooms",
+                    "Soy sauce",
+                    "Noodles"
+                ],
+                "cooking_method": "1. Roast pork and chicken bones in the oven. \n2. Soak dried shiitake mushrooms in hot water until soft. \n3. Add the bones, mushrooms, and water to a pot and simmer for several hours. \n4. Strain the broth and add soy sauce to taste. \n5. Cook noodles according to package instructions. \n6. Add the noodles to a bowl and pour the broth over them.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Takashi Nakamura",
+        "picture": "https://i.ibb.co/ctMxJJf/images.jpg",
+        "experience": "8 years",
+        "likes": 2403,
+        "bio": "Takashi Nakamura is a Japanese chef who specializes in creating unique and innovative dishes that blend traditional Japanese flavors with modern techniques. He has worked in some of the most exclusive restaurants in Tokyo and London.",
+        "recipes": [
+            {
+                "name": "Soba Noodle Salad",
+                "image":"",
+                "ingredients": [
+                    "Soba noodles",
+                    "Carrots",
+                    "Cucumber",
+                    "Red bell pepper",
+                    "Sesame seeds"
+                ],
+                "cooking_method": "1. Cook soba noodles according to package instructions. \nJulienne carrots and cucumber, and thinly slice red bell pepper. \n3. Toast sesame seeds in a dry pan. \n4. Combine all the ingredients in a bowl. \n5. Dress the salad with a mixture of soy sauce, rice vinegar, and sesame oil.",
+                "rating": 4.6
+            },
+            {
+                "name": "Tonkatsu",
+                "image":"",
+                "ingredients": [
+                    "Pork loin",
+                    "Flour",
+                    "Egg",
+                    "Panko breadcrumbs",
+                    "Cabbage"
+                ],
+                "cooking_method": "1. Cut pork loin into thick slices. \n2. Coat each slice in flour, then dip in beaten egg, and coat with panko breadcrumbs. \n3. Deep-fry the pork in oil until golden brown. \n4. Serve with shredded cabbage and tonkatsu sauce.",
+                "rating": 4.8
+            },
+            {
+                "name": "Gyoza",
+                "image":"",
+                "ingredients": [
+                    "Ground pork",
+                    "Napa cabbage",
+                    "Garlic",
+                    "Ginger",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Finely chop napa cabbage and mix it with ground pork. \n2. Add minced garlic, ginger, and soy sauce to the mixture. \n3. Place a spoonful of the filling on a gyoza wrapper and fold it in half. \n4. Pan-fry the gyoza until the bottom is golden brown. \n5. Add water to the pan and cover to steam the gyoza. \n6. Serve with dipping sauce.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Yuki Nakamura",
+        "picture": "https://i.ibb.co/kx8GNvb/images-1.jpg",
+        "experience": "5 years",
+        "likes": 1032,
+        "bio": "Yuki Nakamura is a young and talented chef who has quickly made a name for herself in the Japanese culinary scene. She is known for her inventive use of seasonal ingredients and her modern approach to traditional dishes.",
+        "recipes": [
+            {
+                "name": "Takoyaki",
+                "image":"",
+                "ingredients": [
+                    "Flour",
+                    "Egg",
+                    "Dashi broth",
+                    "Octopus",
+                    "Green onions"
+                ],
+                "cooking_method": "1. Mix flour, egg, and dashi broth to make the batter. \n2. Chop boiled octopus and green onions into small pieces. \n3. Add the octopus and green onions to the batter. \n4. Heat a takoyaki pan and pour the batter into each mold. \n5. Flip the takoyaki balls to cook on all sides. \n6. Serve with takoyaki sauce and mayo.",
+                "rating": 4.4
+            },
+            {
+                "name": "Sukiyaki",
+                "image":"",
+                "ingredients": [
+                    "Thinly sliced beef",
+                    "Tofu",
+                    "Enoki mushrooms",
+                    "Shirataki noodles",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Heat a cast-iron pot and add thinly sliced beef. \n2. Add tofu, enoki mushrooms, and shirataki noodles. \n3. Add a mixture of soy sauce, sugar, and sake to the pot. \n4. Simmer the ingredients until cooked through. \n5. Dip the cooked ingredients into beaten raw egg before eating.",
+                "rating": 4.7
+            },
+            {
+                "name": "Okonomiyaki",
+                "image":"",
+                "ingredients": [
+                    "Flour",
+                    "Egg",
+                    "Cabbage",
+                    "Pork belly",
+                    "Okonomiyaki sauce"
+                ],
+                "cooking_method": "1. Mix flour, egg, and water to make the batter. \n2. Thinly slice cabbage and chop pork belly into small pieces. \n3. Add the cabbage and pork to the batter. \n4. Pour the batter onto a hot griddle and cook until the bottom is golden brown. \n5. Flip the okonomiyaki and cook the other side. \n6. Top with okonomiyaki sauce, mayo, and green onions.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Takashi Sato",
+        "picture": "https://i.ibb.co/d6j4HhT/what-is-a-chef-de-cuisiine.jpg",
+        "experience": "12 years",
+        "likes": 2345,
+        "bio": "Takashi Sato is a seasoned chef who has worked in some of the most prestigious restaurants in Japan. He is known for his classic approach to Japanese cuisine and his mastery of traditional techniques.",
+        "recipes": [
+            {
+                "name": "Sashimi",
+                "image":"",
+                "ingredients": [
+                    "Tuna",
+                    "Salmon",
+                    "Yellowtail",
+                    "Wasabi",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Slice the fish into thin pieces. \n2. Arrange the fish on a plate. \n3. Serve with wasabi and soy sauce.",
+                "rating": 4.9
+            },
+            {
+                "name": "Chawanmushi",
+                "image":"",
+                "ingredients": [
+                    "Egg",
+                    "Dashi broth",
+                    "Shiitake mushrooms",
+                    "Shrimp",
+                    "Ginkgo nuts"
+                ],
+                "cooking_method": "1. Beat eggs and mix with dashi broth. \n2. Add sliced shiitake mushrooms, cooked shrimp, and ginkgo nuts to the mixture. \n3. Pour the mixture into small bowls. \n4. Steam the bowls until the chawanmushi is set. \n5. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Tempura",
+                "image":"",
+                "ingredients": [
+                    "Shrimp",
+                    "Sweet potato",
+                    "Broccoli",
+                    "Flour",
+                    "Egg"
+                ],
+                "cooking_method": "1. Dip shrimp, sweet potato, and broccoli in a mixture of flour and egg. \n2. Deep-fry the vegetables and shrimp in oil until golden brown. \n3. Serve hot with tempura dipping sauce.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Akihiro Suzuki",
+        "picture": "https://i.ibb.co/0Cttpph/download.jpg",
+        "experience": "8 years",
+        "likes": 1789,
+        "bio": "Akihiro Suzuki is a rising star in the Japanese culinary world. He is known for his innovative techniques and his use of unusual ingredients to create unique flavor profiles.",
+        "recipes": [
+            {
+                "name": "Miso soup",
+                "image":"",
+                "ingredients": [
+                    "Dashi broth",
+                    "Miso paste",
+                    "Tofu",
+                    "Green onions",
+                    "Wakame seaweed"
+                ],
+                "cooking_method": "1. Mix dashi broth and miso paste in a pot. \n2. Add cubed tofu, sliced green onions, and wakame seaweed to the pot. \n3. Simmer the soup until the ingredients are cooked through. \n4. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "name": "Karaage",
+                "image":"",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Green onions",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sake"
+                ],
+                "cooking_method": "1. Cut chicken thighs into bite-sized pieces. \n2. Skewer the chicken with sliced green onions. \n3. Grill the skewers over charcoal until the chicken is cooked through. \n4. Brush the skewers with a mixture of soy sauce, mirin, and sake. \n5. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Yakitori",
+                "image":"",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Green onions",
+                    "Soy sauce",
+                    "Mirin",
+                    "Sake"
+                ],
+                "cooking_method": "1. Cut chicken thighs into bite-sized pieces. \n2. Skewer the chicken with sliced green onions. \n3. Grill the skewers over charcoal until the chicken is cooked through. \n4. Brush the skewers with a mixture of soy sauce, mirin, and sake. \n5. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Yuko Nakamura",
+        "picture": "https://i.ibb.co/9Hcycjt/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+        "experience": "6 years",
+        "likes": 1290,
+        "bio": "Yuko Nakamura is a talented chef who has trained under some of the most respected chefs in Japan. She specializes in kaiseki cuisine and is known for her meticulous attention to detail.",
+        "recipes": [
+            {
+                "name": "Karaage",
+                "image":"",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Soy sauce",
+                    "Sake",
+                    "Mirin",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Cut chicken thighs into bite-sized pieces. \n2. Marinate the chicken in soy sauce, sake, mirin, and garlic for at least 30 minutes. \n3. Dredge the chicken in potato starch. \n4. Deep-fry the chicken in oil until golden brown. \n5. Serve hot with lemon wedges.",
+                "rating": 4.8
+            },
+            {
+                "name": "Sukiyaki",
+                "image":"",
+                "ingredients": [
+                    "Thinly sliced beef",
+                    "Tofu",
+                    "Shiitake mushrooms",
+                    "Green onions",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Heat a skillet over medium heat. \n2. Add thinly sliced beef and cook until browned. \n3. Add sliced shiitake mushrooms, cubed tofu, and sliced green onions to the skillet. \n4. Add soy sauce and sugar to the skillet. \n5. Simmer until the vegetables are cooked through. \n6. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "name": "Chawanmushi",
+                "image":"",
+                "ingredients": [
+                    "Egg",
+                    "Dashi broth",
+                    "Shrimp",
+                    "Shiitake mushrooms",
+                    "Fish cake"
+                ],
+                "cooking_method": "1. Beat eggs and mix with dashi broth. \n2. Add sliced shiitake mushrooms, cooked shrimp, and sliced fish cake to the mixture. \n3. Pour the mixture into small bowls. \n4. Steam the bowls until the chawanmushi is set. \n5. Serve hot.",
+                "rating": 4.5
+            }
+        ]
+    }
+]
